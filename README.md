@@ -12,8 +12,10 @@ Analyzed loan portfolio data using **SQL and Power BI** to understand loan perfo
 **Online Retail Return Risk & Profitability Analysis**
 Explored retail transaction data using **Excel, SQL, and Power BI** to identify product return patterns and measure how returns impact profitability.
 
+
 **Telco Customer Churn Analysis**
 Used **SQL and Excel** to analyze telecom customer data and identify factors that contribute to higher churn rates.
+https://github.com/pratiksha-rohankar/Telco-Customer-Churn-Analysis
 
 ## 🛠 Skills
 
