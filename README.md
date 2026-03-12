@@ -8,7 +8,7 @@ Currently, I’m building hands-on projects to strengthen my data analysis and v
 
 ### Bank Loan Performance Analysis
 Analyzed loan portfolio data using **SQL and Power BI** to understand loan performance, repayment behavior, and risk indicators.
-   **[Bank Loan Performance Analysis](https://github.com/pratiksha-rohankar/Bank-Loan-Performance-Analysis-)**
+**[Bank Loan Performance Analysis](https://github.com/pratiksha-rohankar/Bank-Loan-Performance-Analysis-)**
 
 ### Online Retail Return Risk & Profitability Analysis                                                                                                    
 Explored retail transaction data using **Excel, SQL, and Power BI** to identify product return patterns and measure how returns impact profitability.
